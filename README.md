@@ -75,6 +75,33 @@ A canvas that helps to determine the different types of services that are needed
 
 ---
 
+#### Wardley mapping
+A tool and approach to map out different systems and how they are connected. Determine strategy to evolve the landscape. Provides insights in how platforms support other systems and determine organization level strategy towards different platforms.
+
+**Tool type:** Book, Structure/classification, Workshop tool
+
+**Link:** https://learnwardleymapping.com/
+
+---
+
+#### Team Topologies
+A practical, adaptive model for organizational design and team interactions. It leverages certain team types, that conincide with platform engineering and ensure organization design that matches with its principles.
+
+**Tool type:** Book, Structure/classification
+
+**Link:** https://teamtopologies.com/
+
+---
+
+#### Architecture for flow
+Guidance in designing adaptive, socio-technical systems. A combination of tools (wardley mapping, Domain Driven Design & Team Topologies), that complement each other in a structured way.
+
+**Tool type:** Book, Structure/classification, Workshop tool
+
+**Link:** https://susannekaiser.net/architecture-for-flow-canvas/
+
+---
+
 ### Metrics
 
 ### Embedment in standing organization
