@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Platform Engineering Toolkit</title>
+    <meta name="description" content="Starter site for collecting platform engineering tools & patterns." />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <a class="visually-hidden" href="#main">Skip to content</a>
+
+    <nav class="primary" aria-label="Primary">
+      <div class="container">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="adoption.html">Adoption</a>
+        <a href="legacy.html">Legacy Platform engineering patterns</a>
+      </div>
+    </nav>
+
+    <header class="site">
+      <div class="container">
+        <h1>Platform Engineering Toolkit</h1>
+        <p class="small">Starter site for collecting tools & patterns.</p>
+      </div>
+    </header>
+
+    <main id="main" class="container">
+      <section>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam.</p>
+      </section>
+
+      <section class="note" aria-live="polite">
+        <strong>Image hotspots:</strong> Two clickable regions on the image—ghost house → Legacy patterns; symbol above “adoption” → Adoption.
+        Update the rectangle coordinates in the <code>&lt;area&gt;</code> tags to match your actual picture.
+      </section>
+
+      <section>
+        <img
+          src="toolkit.jpg"
+          alt="Toolkit diagram with ghost house and adoption symbol."
+          class="responsive"
+          loading="lazy"
+          decoding="async"
+          usemap="#hotspots"
+        />
+        <map name="hotspots">
+          <area shape="rect"
+                coords="260,300,400,500"
+                href="adoption.html"
+                alt="Adoption"
+                aria-label="Adoption"
+                title="Adoption" />
+          <area shape="rect"
+                coords="460,250,600,500" 
+                href="legacy.html"
+                alt="Legacy Platform engineering patterns"
+                aria-label="Legacy Platform engineering patterns"
+                title="Legacy Platform engineering patterns" />
+        </map>
+      </section>
+
+      <section>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa qui.</p>
+      </section>
+    </main>
+
+    <footer class="site">
+      <p>&copy; 2025 Platform Engineering Toolkit. Contributions welcome via pull requests.</p>
+    </footer>
+  </body>
+</html>
