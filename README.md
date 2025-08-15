@@ -62,7 +62,7 @@ A framework for reflection and for identifying opportunities for improvement in 
 
 **Tool type:** Maturity model
 
-**Link:** https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/
+**Link:** [Link](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/#model-table)
 
 ---
 
