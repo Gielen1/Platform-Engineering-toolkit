@@ -77,10 +77,12 @@ A canvas that helps to determine the different types of services that are needed
 
 #### Wardley mapping
 A tool and approach to map out different systems and how they are connected. Determine strategy to evolve the landscape. Provides insights in how platforms support other systems and determine organization level strategy towards different platforms.
+There is a.o. a short introduction movie and a free book.
 
 **Tool type:** Book, Structure/classification, Workshop tool
 
 **Link:** https://learnwardleymapping.com/
+**Free book:** https://learnwardleymapping.com/book/
 
 ---
 
@@ -99,6 +101,7 @@ Guidance in designing adaptive, socio-technical systems. A combination of tools 
 **Tool type:** Book, Structure/classification, Workshop tool
 
 **Link:** https://susannekaiser.net/architecture-for-flow-canvas/
+**Video:** https://youtu.be/Mm0ctgk-uIM?feature=shared
 
 ---
 
