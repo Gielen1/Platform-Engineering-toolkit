@@ -1,5 +1,13 @@
 # Platform-Engineering-toolkit
-A place to find curated resources...
+Platform engineering can feel daunting—especially in organisations not born in the cloud.
+This toolkit was introduced in the Fast Flow session From Theme Parks to Flow: Mapping Platforms for Real Impact and is grounded the DevOpsDays London talk Old Tracks, New Rides….
+
+It’s designed to help you treat platforms as systems of value and take practical next steps. Inside you’ll find a curated set of field-tested community resources—plus checklists, templates, and quick exercises.
+
+We’ve organised everything for fast access and only included our own and what we use and know works. Whether you’re working with hybrid stacks, evolving platforms, or messy developer experiences, start here, start small, and design for the system—not just the parts.
+
+## Contributions
+Got something to add? We’d love your contributions. Because this is a curated toolkit, not everything will be included by default—we focus on proven, practical resources that align with the approach we’re sharing and have been used in the real world. We update on a best-endeavours basis (we care, but we also have day jobs and lives), so responses may take a little time. When you suggest something, a short note on where it’s been used and why it helps really speeds things up. Thanks for helping keep this useful and grounded.
 
 ## The PE Tool map
 Some clickable image of a theme park
@@ -24,7 +32,10 @@ Short description (with image)
 
 ### PE Triggers
 
-### Landscape discovery
+### PlatformOps Landscape   
+
+Platforms aren’t just tech—they’re systems of value. If your organisation feels more like a theme park—old rides, long queues, hidden gates, the Platform Mapping Canvas helps you 'zoom out' and see what actually exists, who depends on what, and where small changes can lift flow for many teams. Two pages, one quick starting session, immediate clarity — Read the full guide →
+
 
 #### PE Pilot characteristics
 If you want to run a pilot in your organization, picking the right one can be difficult. This is a list of characterstics that can help you pick the right one.
@@ -84,6 +95,11 @@ There is a.o. a short introduction movie and a free book.
 **Link:** https://learnwardleymapping.com/
 **Free book:** https://learnwardleymapping.com/book/
 
+Simon Wardley sessions on Wardley Maps
+Wardley Mapping Part 1: How and why to map your business | AWS Public Sector  **Link:** https://www.youtube.com/watch?v=KkePAhnkHeg
+Wardley Mapping Part 2: How to spot patterns | AWS Public Sector **Link:** https://www.youtube.com/watch?v=xsDT7L-tARs
+Wardley Mapping Part 3: How to anticipate change | AWS Public Sector **Link** https://www.youtube.com/watch?v=58iLrw6-4x4
+Wardley Mapping Part 4: How to use doctrine and gameplay | AWS Public Sector **https://www.youtube.com/watch?v=gPDVA6uVAlU**
 ---
 
 #### Team Topologies
